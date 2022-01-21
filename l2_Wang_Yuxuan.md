@@ -7,3 +7,6 @@
 
 * [Yuxuan Wang](yx703587@dal.ca) - *(Developer)*
 
+## Short answer questions
+1. the const variable is block-scoped
+2. both const and let are add in ES6 (2015)
