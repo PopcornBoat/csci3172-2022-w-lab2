@@ -1,7 +1,7 @@
 /*
     @author: Yuxuan Wang
     @email: yx703587@dal.ca
-    @descp: CSCI 3172 Lab2 index.js 
+    @descp: CSCI 3172 Lab2 calculate_area.js 
 */
 
 // Q(a): calculate the area of a circle with a radius of 6
