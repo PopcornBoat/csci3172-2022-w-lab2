@@ -6,8 +6,8 @@
 
 // Q(a): calculate the area of a circle with a radius of 6
 const radius = 6;
+const pi = 3.14;
 function circleArea(radius){
-    const pi = 3.14;
     var area = pi * radius * radius;
     console.log(area);
     return area;
